@@ -1,0 +1,22 @@
+.main_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Set a fixed height to center vertically */
+  background: gray;
+}
+
+.response{
+  position: relative;
+  margin-top: 50px;
+  border: solid black 2px;
+  border-radius: 10px;
+  background: white;
+  
+
+}
+
+.button{
+  position: relative;
+  margin-top: 30px;
+}
